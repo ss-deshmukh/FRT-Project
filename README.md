@@ -21,8 +21,7 @@ Primary Azure Technology: Static Web App
 
 Project URL: https://black-smoke-09f708e10.1.azurestaticapps.net/#home
 
-Project Video URL: https://drive.google.com/file/d/1poyQsfI5JmMEftqyk21EKrGXDjIIqV-I/view?usp=sharing
-
+Project Video URL: https://www.youtube.com/watch?v=CgFpUsrLLJ0
 
 ---End of Project Details---
 
