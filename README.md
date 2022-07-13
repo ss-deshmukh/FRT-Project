@@ -26,4 +26,9 @@ Project Video URL: https://drive.google.com/file/d/1poyQsfI5JmMEftqyk21EKrGXDjII
 
 ---End of Project Details---
 
+Azure Services:
+![a2](https://user-images.githubusercontent.com/65087687/178812094-175c7166-ee7c-4ed5-8812-d651b9009daf.png)
+
+Portfolio Website:
+![a3](https://user-images.githubusercontent.com/65087687/178812276-a7fe762b-a545-4750-8586-8e8d71770e51.png)
 
